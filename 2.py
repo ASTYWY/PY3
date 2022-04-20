@@ -6,3 +6,8 @@ for i in list_1:
 
 print("list_1 = {}\nlist_2 = {}".format(list_1, list_2))
 
+sum_1 = sum(list_2)
+print(sum_1)
+
+list_1.reverse()
+print(list_1)
